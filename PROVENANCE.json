@@ -1,0 +1,17 @@
+{
+  "project": "multi-cancer-cnn",
+  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "sources": [
+    {
+      "file": "notebooks/cancer-cnn.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/cancer-cnn",
+      "source_title": "Cancer CNN",
+      "source_id": 72778803,
+      "last_run_time": "2024-12-11 15:27:06.270000",
+      "original_sha256": "ab92d87165ffb8dcfc74c6eb736b03863f18f16cee561b52acae9afeaab1b330",
+      "published_sha256": "ab92d87165ffb8dcfc74c6eb736b03863f18f16cee561b52acae9afeaab1b330",
+      "redactions": [],
+      "executed_outputs_present": true
+    }
+  ]
+}
