@@ -1,6 +1,6 @@
 {
   "project": "multi-cancer-cnn",
-  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "packaging_note": "Original source and saved outputs retained in the pre-cleanup Git history and linked sources. Published notebooks have comment and formatting cleanup only; executable ASTs, outputs, metadata, and cell order were checked unchanged. Training was not rerun.",
   "sources": [
     {
       "file": "notebooks/cancer-cnn.ipynb",
@@ -9,9 +9,12 @@
       "source_id": 72778803,
       "last_run_time": "2024-12-11 15:27:06.270000",
       "original_sha256": "ab92d87165ffb8dcfc74c6eb736b03863f18f16cee561b52acae9afeaab1b330",
-      "published_sha256": "ab92d87165ffb8dcfc74c6eb736b03863f18f16cee561b52acae9afeaab1b330",
+      "published_sha256": "3ec64110feedcc806aa0516424b8a7e177fc404aedc2447bc0d95bec15bcf7a6",
       "redactions": [],
-      "executed_outputs_present": true
+      "executed_outputs_present": true,
+      "pre_cleanup_commit": "2aafa0eab7eef8b2f674d0747587be54f3626619",
+      "pre_cleanup_url": "https://github.com/Thorballer/multi-cancer-cnn/blob/2aafa0eab7eef8b2f674d0747587be54f3626619/notebooks/cancer-cnn.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     }
   ]
 }
